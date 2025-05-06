@@ -18,4 +18,4 @@
   
 </div>
 
-![Snake animation] (https://github.com/hezerp)
+
